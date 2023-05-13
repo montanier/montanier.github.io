@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Carrignon on Jean-Marc Montanier</title>
+    <link>//localhost:1313/authors/simon-carrignon/</link>
+    <description>Recent content in Simon Carrignon on Jean-Marc Montanier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/authors/simon-carrignon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefits of proportionate selection in embodied evolution: a case study with behavioural specialization</title>
+      <link>//localhost:1313/publication/bredeche-2017-benefits/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/bredeche-2017-benefits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioural Specialisation in Embodied Evolutionary Robotics: Why so Difficult?</title>
+      <link>//localhost:1313/publication/montanier-2016-behavioural/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/montanier-2016-behavioural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the co-evolution of trade and culture in past societies</title>
+      <link>//localhost:1313/publication/carrignon-2015-modelling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/carrignon-2015-modelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

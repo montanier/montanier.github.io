@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Remesal Rodriguez on Jean-Marc Montanier</title>
+    <link>//localhost:1313/authors/jos%C3%A9-remesal-rodriguez/</link>
+    <description>Recent content in José Remesal Rodriguez on Jean-Marc Montanier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/authors/jos%C3%A9-remesal-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures</title>
+      <link>//localhost:1313/publication/rubio-2018-ecology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/rubio-2018-ecology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

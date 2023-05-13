@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Schoenauer on Jean-Marc Montanier</title>
+    <link>//localhost:1313/authors/marc-schoenauer/</link>
+    <description>Recent content in Marc Schoenauer on Jean-Marc Montanier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/authors/marc-schoenauer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On-board Evolutionary Algorithm and Off-line Rule Discovery for Column Formation in Swarm Robotics</title>
+      <link>//localhost:1313/publication/kouno-2011-board/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/kouno-2011-board/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

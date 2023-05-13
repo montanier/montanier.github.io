@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others on Jean-Marc Montanier</title>
+    <link>//localhost:1313/authors/-others/</link>
+    <description>Recent content in  others on Jean-Marc Montanier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/authors/-others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Language Tutoring using Social Robots. A Large-Scale Study</title>
+      <link>//localhost:1313/publication/vogt-2019-second/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/vogt-2019-second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Development Within a Social Robotic, Multi-Disciplinary Effort: the CARESSES Case Study</title>
+      <link>//localhost:1313/publication/menicatti-2018-collaborative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/menicatti-2018-collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for designing social robots as second language tutors</title>
+      <link>//localhost:1313/publication/belpaeme-2018-guidelines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/belpaeme-2018-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Societies: Challenges and Perspectives in the Design of Collective Behavior in Self-organizing Systems</title>
+      <link>//localhost:1313/publication/hamann-2016-hybrid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/hamann-2016-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surviving the Tragedy of Commons: Emergence of Altruism in a Population of Evolving Autonomous Agents</title>
+      <link>//localhost:1313/publication/montanier-2011-surviving/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/montanier-2011-surviving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heiko Hamann on Jean-Marc Montanier</title>
+    <link>//localhost:1313/authors/heiko-hamann/</link>
+    <description>Recent content in Heiko Hamann on Jean-Marc Montanier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/authors/heiko-hamann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hybrid Societies: Challenges and Perspectives in the Design of Collective Behavior in Self-organizing Systems</title>
+      <link>//localhost:1313/publication/hamann-2016-hybrid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/hamann-2016-hybrid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
