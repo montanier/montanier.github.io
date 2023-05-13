@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Marc Montanier on Jean-Marc Montanier</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Jean-Marc Montanier on Jean-Marc Montanier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ChIRP</title>
+      <link>//localhost:1313/project/chirp/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>//localhost:1313/project/chirp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandora</title>
+      <link>//localhost:1313/project/pandora/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>//localhost:1313/project/pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roborobo</title>
+      <link>//localhost:1313/project/roborobo/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>//localhost:1313/project/roborobo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Language Tutoring using Social Robots. A Large-Scale Study</title>
+      <link>//localhost:1313/publication/vogt-2019-second/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/vogt-2019-second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative Development Within a Social Robotic, Multi-Disciplinary Effort: the CARESSES Case Study</title>
+      <link>//localhost:1313/publication/menicatti-2018-collaborative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/menicatti-2018-collaborative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for designing social robots as second language tutors</title>
+      <link>//localhost:1313/publication/belpaeme-2018-guidelines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/belpaeme-2018-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures</title>
+      <link>//localhost:1313/publication/rubio-2018-ecology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/rubio-2018-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits of proportionate selection in embodied evolution: a case study with behavioural specialization</title>
+      <link>//localhost:1313/publication/bredeche-2017-benefits/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/bredeche-2017-benefits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the effect of self-assembly ports in evolutionary swarm robotics</title>
+      <link>//localhost:1313/publication/ripon-2016-assessing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/ripon-2016-assessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioural Specialisation in Embodied Evolutionary Robotics: Why so Difficult?</title>
+      <link>//localhost:1313/publication/montanier-2016-behavioural/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/montanier-2016-behavioural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Societies: Challenges and Perspectives in the Design of Collective Behavior in Self-organizing Systems</title>
+      <link>//localhost:1313/publication/hamann-2016-hybrid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/hamann-2016-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the co-evolution of trade and culture in past societies</title>
+      <link>//localhost:1313/publication/carrignon-2015-modelling/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/carrignon-2015-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive self-assembly in swarm robotics through environmental bias</title>
+      <link>//localhost:1313/publication/montanier-2014-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/montanier-2014-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repellent pheromones for effective swarm robot search in unknown environments</title>
+      <link>//localhost:1313/publication/fossum-2014-repellent/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/fossum-2014-repellent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ChIRP Robot: A Versatile Swarm Robot Platform</title>
+      <link>//localhost:1313/publication/skjetne-2014-chirp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/publication/skjetne-2014-chirp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
