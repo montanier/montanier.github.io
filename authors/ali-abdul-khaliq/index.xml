@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ali Abdul Khaliq on Jean-Marc Montanier</title>
-    <link>//localhost:1313/authors/ali-abdul-khaliq/</link>
+    <link>/authors/ali-abdul-khaliq/</link>
     <description>Recent content in Ali Abdul Khaliq on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/authors/ali-abdul-khaliq/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/authors/ali-abdul-khaliq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Collaborative Development Within a Social Robotic, Multi-Disciplinary Effort: the CARESSES Case Study</title>
-      <link>//localhost:1313/publication/menicatti-2018-collaborative/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <link>/publication/menicatti-2018-collaborative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/menicatti-2018-collaborative/</guid>
+      <guid>/publication/menicatti-2018-collaborative/</guid>
       <description></description>
     </item>
     

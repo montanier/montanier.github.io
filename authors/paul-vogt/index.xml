@@ -1,31 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Vogt on Jean-Marc Montanier</title>
-    <link>//localhost:1313/authors/paul-vogt/</link>
+    <link>/authors/paul-vogt/</link>
     <description>Recent content in Paul Vogt on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/authors/paul-vogt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/authors/paul-vogt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second Language Tutoring using Social Robots. A Large-Scale Study</title>
-      <link>//localhost:1313/publication/vogt-2019-second/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <link>/publication/vogt-2019-second/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/vogt-2019-second/</guid>
+      <guid>/publication/vogt-2019-second/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for designing social robots as second language tutors</title>
-      <link>//localhost:1313/publication/belpaeme-2018-guidelines/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <link>/publication/belpaeme-2018-guidelines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/belpaeme-2018-guidelines/</guid>
+      <guid>/publication/belpaeme-2018-guidelines/</guid>
       <description></description>
     </item>
     

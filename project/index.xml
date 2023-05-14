@@ -1,41 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jean-Marc Montanier</title>
-    <link>//localhost:1313/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChIRP</title>
-      <link>//localhost:1313/project/chirp/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <link>/project/chirp/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/project/chirp/</guid>
-      <description></description>
+      <guid>/project/chirp/</guid>
+      <description>A Versatile Swarm Robot Platform.</description>
     </item>
     
     <item>
       <title>Pandora</title>
-      <link>//localhost:1313/project/pandora/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <link>/project/pandora/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/project/pandora/</guid>
-      <description></description>
+      <guid>/project/pandora/</guid>
+      <description>A parallelized flexible multi-agent simulator.</description>
     </item>
     
     <item>
       <title>Roborobo</title>
-      <link>//localhost:1313/project/roborobo/</link>
-      <pubDate>Sat, 06 Apr 2019 00:00:00 +0200</pubDate>
+      <link>/project/roborobo/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/project/roborobo/</guid>
-      <description></description>
+      <guid>/project/roborobo/</guid>
+      <description>A fast 2D robotic simulator</description>
     </item>
     
   </channel>

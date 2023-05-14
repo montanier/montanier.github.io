@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asuki Kouno on Jean-Marc Montanier</title>
-    <link>//localhost:1313/authors/asuki-kouno/</link>
+    <link>/authors/asuki-kouno/</link>
     <description>Recent content in Asuki Kouno on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/authors/asuki-kouno/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="/authors/asuki-kouno/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On-board Evolutionary Algorithm and Off-line Rule Discovery for Column Formation in Swarm Robotics</title>
-      <link>//localhost:1313/publication/kouno-2011-board/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <link>/publication/kouno-2011-board/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/kouno-2011-board/</guid>
+      <guid>/publication/kouno-2011-board/</guid>
       <description></description>
     </item>
     

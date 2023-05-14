@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evert Haasdijk on Jean-Marc Montanier</title>
-    <link>//localhost:1313/authors/evert-haasdijk/</link>
+    <link>/authors/evert-haasdijk/</link>
     <description>Recent content in Evert Haasdijk on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="//localhost:1313/authors/evert-haasdijk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="/authors/evert-haasdijk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roborobo! a Fast Robot Simulator for Swarm and Collective Robotics</title>
-      <link>//localhost:1313/publication/bredeche-2013-roborobo/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <link>/publication/bredeche-2013-roborobo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/publication/bredeche-2013-roborobo/</guid>
+      <guid>/publication/bredeche-2013-roborobo/</guid>
       <description></description>
     </item>
     

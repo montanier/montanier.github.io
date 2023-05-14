@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Jean-Marc Montanier</title>
-    <link>//localhost:1313/authors/admin/</link>
+    <link>/authors/admin/</link>
     <description>Recent content in admin on Jean-Marc Montanier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="//localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/author/admin/</link>
+      <link>/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/author/admin/</guid>
+      <guid>/author/admin/</guid>
       <description>I&amp;rsquo;m Jean-Marc Montanier, a Data Scientist, currently working at Faurecia at the DSF team.
 Current work The DSF team of Faurecia tackles two broad problems:
- Improve the production (speed and quality) Improve the products (functionalities)  We focus on the subset of problems that can be addressed by Machine Learning and A.I. tools. Among the tools we use one can find: Clustering, Deep Networks, Constraint Programming, Time Series analysis.</description>
+Improve the production (speed and quality)
+Improve the products (functionalities)
+We focus on the subset of problems that can be addressed by Machine Learning and A.I. tools. Among the tools we use one can find: Clustering, Deep Networks, Constraint Programming, Time Series analysis. We bring the products from P.</description>
     </item>
     
   </channel>

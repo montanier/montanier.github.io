@@ -1,683 +1,298 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    <url>
-    
-      <loc>//localhost:1313/project/chirp/</loc>
-      <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/project/pandora/</loc>
-      <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/project/roborobo/</loc>
-      <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/vogt-2019-second/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/menicatti-2018-collaborative/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/belpaeme-2018-guidelines/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/rubio-2018-ecology/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/bredeche-2017-benefits/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/ripon-2016-assessing/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2016-behavioural/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/hamann-2016-hybrid/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/carrignon-2015-modelling/</loc>
-      <lastmod>2015-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2014-adaptive/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/fossum-2014-repellent/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/skjetne-2014-chirp/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2013-environment/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2013-evolution/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/bredeche-2013-roborobo/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/bredeche-2012-environment/</loc>
-      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2011-embedded/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2011-emergence/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/kouno-2011-board/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/montanier-2011-surviving/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/bredeche-2010-environment/</loc>
-      <lastmod>2010-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/-others/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication_types/1/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication_types/2/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication_types/4/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication_types/6/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/alan-ft-winfield/</loc>
-      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/alessandro-saffiotti/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/ali-abdul-khaliq/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/anders-rye/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/asuki-kouno/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/aylin-c-k%C3%BCntay/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/barbara-bruno/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/berend-weel/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/carmine-t-recchiuto/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/christian-skjetne/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/christopher-tannum/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/daniel-hernandez-garcia/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/einoshin-suzuki/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/eirik-jakobsen/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/eliseo-ferrante/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/evert-haasdijk/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/ezgi-mamus/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/federico-pecora/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/filip-fossum/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/fotios-papadopoulos/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/guillem-rull/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/ha-duong-bui/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/heiko-hamann/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/h%C3%A5vard-schei/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/james-kennedy/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/jean-botev/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/</loc>
-      <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/jean-marc-montanier/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/jonathan-timmis/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/jordi-p%C3%A9rez-gonz%C3%A1lez/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/jos%C3%A9-remesal-rodriguez/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/juan-manuel-berm%C3%BAdez-lorenzo/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/juan-moros-d%C4%B1%CC%81az/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/junko-kanero/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/kazi-shah-nawaz-ripon/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/kirsten-bergmann/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/laura-hoffmann/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/marc-schoenauer/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/michele-sebag/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/mirjam-de-haas/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/mirjam-de-haas/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/mohammad-divband-soorati/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/nak-young-chong/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/nicolas-bredeche/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/oliver-kosak/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/ora-oudgenoeg-paz/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/paul-vogt/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/pauline-c-haddow/</loc>
-      <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/post/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/project/</loc>
-      <lastmod>2019-04-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication_types/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/publication/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/talk/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/renato-zaccaria/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/rianne-van-den-berghe/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/rianne-van-den-berghe/</loc>
-      <lastmod>2019-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/richard-redpath/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/roberto-menicatti/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/sanaz-mostaghim/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/shigeru-takano/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/simon-carrignon/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/tags/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/tilbe-g%C3%B6ksun/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/tony-belpaeme/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/uwe-k%C3%B6ckemann/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/wenguo-liu/</loc>
-      <lastmod>2012-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/xavier-rubio-campillo/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/yara-khaluf/</loc>
-      <lastmod>2016-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>//localhost:1313/authors/admin/</loc>
-      <priority>0</priority>
-    </url>
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/project/chirp/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/pandora/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/roborobo/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/others/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/daniel-hernandez-garcia/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ezgi-mamus/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/fotios-papadopoulos/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jean-marc-montanier/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/junko-kanero/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/laura-hoffmann/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mirjam-de-haas/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ora-oudgenoeg-paz/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/paul-vogt/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/rianne-van-den-berghe/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/vogt-2019-second/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/alessandro-saffiotti/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ali-abdul-khaliq/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/aylin-c-k%C3%BCntay/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/barbara-bruno/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/carmine-t-recchiuto/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/menicatti-2018-collaborative/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/federico-pecora/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/belpaeme-2018-guidelines/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/guillem-rull/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/ha-duong-bui/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/james-kennedy/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jordi-p%C3%A9rez-gonz%C3%A1lez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jos%C3%A9-remesal-rodriguez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/juan-manuel-berm%C3%BAdez-lorenzo/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/juan-moros-d%C4%B1%CC%81az/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kirsten-bergmann/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nak-young-chong/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/renato-zaccaria/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/roberto-menicatti/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/rubio-2018-ecology/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tilbe-g%C3%B6ksun/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/tony-belpaeme/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/uwe-k%C3%B6ckemann/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/xavier-rubio-campillo/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bredeche-2017-benefits/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nicolas-bredeche/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/simon-carrignon/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/ripon-2016-assessing/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2016-behavioural/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/christopher-tannum/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/eirik-jakobsen/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/eliseo-ferrante/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/heiko-hamann/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/hamann-2016-hybrid/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jean-botev/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jonathan-timmis/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/kazi-shah-nawaz-ripon/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mohammad-divband-soorati/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/oliver-kosak/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/richard-redpath/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sanaz-mostaghim/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/yara-khaluf/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/carrignon-2015-modelling/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2014-adaptive/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/anders-rye/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/christian-skjetne/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/filip-fossum/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/h%C3%A5vard-schei/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pauline-c-haddow/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/fossum-2014-repellent/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/skjetne-2014-chirp/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/berend-weel/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2013-environment/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/evert-haasdijk/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2013-evolution/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bredeche-2013-roborobo/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/alan-ft-winfield/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bredeche-2012-environment/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/wenguo-liu/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/asuki-kouno/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/einoshin-suzuki/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2011-embedded/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2011-emergence/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/marc-schoenauer/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/michele-sebag/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/kouno-2011-board/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/shigeru-takano/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/montanier-2011-surviving/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bredeche-2010-environment/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/admin/</loc>
+  </url><url>
+    <loc>/authors/admin/</loc>
+  </url><url>
+    <loc>/author/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/talk/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
 </urlset>
