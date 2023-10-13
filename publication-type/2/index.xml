@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Jean-Marc Montanier</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for designing social robots as second language tutors</title>
+      <link>/publication/belpaeme-2018-guidelines/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/belpaeme-2018-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures</title>
+      <link>/publication/rubio-2018-ecology/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rubio-2018-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioural Specialisation in Embodied Evolutionary Robotics: Why so Difficult?</title>
+      <link>/publication/montanier-2016-behavioural/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/montanier-2016-behavioural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hybrid Societies: Challenges and Perspectives in the Design of Collective Behavior in Self-organizing Systems</title>
+      <link>/publication/hamann-2016-hybrid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hamann-2016-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roborobo! a Fast Robot Simulator for Swarm and Collective Robotics</title>
+      <link>/publication/bredeche-2013-roborobo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bredeche-2013-roborobo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment-driven distributed evolutionary adaptation in a population of autonomous robotic agents</title>
+      <link>/publication/bredeche-2012-environment/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bredeche-2012-environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded evolutionary robotics: The (1&#43; 1)-restart-online adaptation algorithm</title>
+      <link>/publication/montanier-2011-embedded/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/montanier-2011-embedded/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

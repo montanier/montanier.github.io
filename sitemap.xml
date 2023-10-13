@@ -2,297 +2,219 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/project/chirp/</loc>
-    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <loc>/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/</loc>
+    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/article/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/project/chirp/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/project/pandora/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/project/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/project/roborobo/</loc>
     <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/others/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/daniel-hernandez-garcia/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ezgi-mamus/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/fotios-papadopoulos/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/jean-marc-montanier/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/junko-kanero/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/laura-hoffmann/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/mirjam-de-haas/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ora-oudgenoeg-paz/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/paul-vogt/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/rianne-van-den-berghe/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/vogt-2019-second/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/alessandro-saffiotti/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ali-abdul-khaliq/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/aylin-c-k%C3%BCntay/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/barbara-bruno/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/carmine-t-recchiuto/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/menicatti-2018-collaborative/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/federico-pecora/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/belpaeme-2018-guidelines/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/guillem-rull/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/ha-duong-bui/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/james-kennedy/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/jordi-p%C3%A9rez-gonz%C3%A1lez/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/jos%C3%A9-remesal-rodriguez/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/juan-manuel-berm%C3%BAdez-lorenzo/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/juan-moros-d%C4%B1%CC%81az/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/kirsten-bergmann/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/nak-young-chong/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/renato-zaccaria/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/roberto-menicatti/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/rubio-2018-ecology/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/tilbe-g%C3%B6ksun/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/tony-belpaeme/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/uwe-k%C3%B6ckemann/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/xavier-rubio-campillo/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/bredeche-2017-benefits/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/nicolas-bredeche/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/simon-carrignon/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/ripon-2016-assessing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2016-behavioural/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/christopher-tannum/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/eirik-jakobsen/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/eliseo-ferrante/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/heiko-hamann/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/hamann-2016-hybrid/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/jean-botev/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/jonathan-timmis/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/kazi-shah-nawaz-ripon/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/mohammad-divband-soorati/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/oliver-kosak/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/richard-redpath/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/sanaz-mostaghim/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/yara-khaluf/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication-type/article-journal/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/carrignon-2015-modelling/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/6/</loc>
+    <loc>/publication-type/6/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2014-adaptive/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/anders-rye/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/christian-skjetne/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/filip-fossum/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/h%C3%A5vard-schei/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/pauline-c-haddow/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/fossum-2014-repellent/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/skjetne-2014-chirp/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/4/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/authors/berend-weel/</loc>
+    <loc>/publication-type/paper-conference/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication-type/4/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2013-environment/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/evert-haasdijk/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2013-evolution/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/bredeche-2013-roborobo/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/alan-ft-winfield/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/bredeche-2012-environment/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/wenguo-liu/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/asuki-kouno/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/einoshin-suzuki/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2011-embedded/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2011-emergence/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/marc-schoenauer/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/michele-sebag/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/kouno-2011-board/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/shigeru-takano/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/montanier-2011-surviving/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/bredeche-2010-environment/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/author/admin/</loc>
-  </url><url>
-    <loc>/authors/admin/</loc>
-  </url><url>
-    <loc>/author/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/post/</loc>
-  </url><url>
-    <loc>/talk/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>/admin/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

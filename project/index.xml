@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jean-Marc Montanier</title>
+    <title>Projects | Jean-Marc Montanier</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Jean-Marc Montanier</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
     <item>
       <title>ChIRP</title>
       <link>/project/chirp/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/chirp/</guid>
-      <description>A Versatile Swarm Robot Platform.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Pandora</title>
       <link>/project/pandora/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/pandora/</guid>
-      <description>A parallelized flexible multi-agent simulator.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Roborobo</title>
       <link>/project/roborobo/</link>
       <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/roborobo/</guid>
-      <description>A fast 2D robotic simulator</description>
+      <description></description>
     </item>
     
   </channel>

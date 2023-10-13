@@ -1,17 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jean-Marc Montanier</title>
+    <title>Publications | Jean-Marc Montanier</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Jean-Marc Montanier</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Second Language Tutoring using Social Robots. A Large-Scale Study</title>
       <link>/publication/vogt-2019-second/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/vogt-2019-second/</guid>
       <description></description>
     </item>
@@ -20,7 +38,6 @@
       <title>Collaborative Development Within a Social Robotic, Multi-Disciplinary Effort: the CARESSES Case Study</title>
       <link>/publication/menicatti-2018-collaborative/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/menicatti-2018-collaborative/</guid>
       <description></description>
     </item>
@@ -29,7 +46,6 @@
       <title>Guidelines for designing social robots as second language tutors</title>
       <link>/publication/belpaeme-2018-guidelines/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/belpaeme-2018-guidelines/</guid>
       <description></description>
     </item>
@@ -38,7 +54,6 @@
       <title>The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures</title>
       <link>/publication/rubio-2018-ecology/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/rubio-2018-ecology/</guid>
       <description></description>
     </item>
@@ -47,7 +62,6 @@
       <title>Benefits of proportionate selection in embodied evolution: a case study with behavioural specialization</title>
       <link>/publication/bredeche-2017-benefits/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/bredeche-2017-benefits/</guid>
       <description></description>
     </item>
@@ -56,7 +70,6 @@
       <title>Assessing the effect of self-assembly ports in evolutionary swarm robotics</title>
       <link>/publication/ripon-2016-assessing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/ripon-2016-assessing/</guid>
       <description></description>
     </item>
@@ -65,7 +78,6 @@
       <title>Behavioural Specialisation in Embodied Evolutionary Robotics: Why so Difficult?</title>
       <link>/publication/montanier-2016-behavioural/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2016-behavioural/</guid>
       <description></description>
     </item>
@@ -74,16 +86,33 @@
       <title>Hybrid Societies: Challenges and Perspectives in the Design of Collective Behavior in Self-organizing Systems</title>
       <link>/publication/hamann-2016-hybrid/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/hamann-2016-hybrid/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Modelling the co-evolution of trade and culture in past societies</title>
       <link>/publication/carrignon-2015-modelling/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/carrignon-2015-modelling/</guid>
       <description></description>
     </item>
@@ -92,7 +121,6 @@
       <title>Adaptive self-assembly in swarm robotics through environmental bias</title>
       <link>/publication/montanier-2014-adaptive/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2014-adaptive/</guid>
       <description></description>
     </item>
@@ -101,7 +129,6 @@
       <title>Repellent pheromones for effective swarm robot search in unknown environments</title>
       <link>/publication/fossum-2014-repellent/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/publication/fossum-2014-repellent/</guid>
       <description></description>
     </item>
@@ -110,16 +137,33 @@
       <title>The ChIRP Robot: A Versatile Swarm Robot Platform</title>
       <link>/publication/skjetne-2014-chirp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/publication/skjetne-2014-chirp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Environment-driven Distributed Evolutionary Adaptation for Collective Robotic Systems</title>
       <link>/publication/montanier-2013-environment/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2013-environment/</guid>
       <description></description>
     </item>
@@ -128,7 +172,6 @@
       <title>Evolution of altruism: spatial dispersion and consumption strategies</title>
       <link>/publication/montanier-2013-evolution/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2013-evolution/</guid>
       <description></description>
     </item>
@@ -137,7 +180,6 @@
       <title>Roborobo! a Fast Robot Simulator for Swarm and Collective Robotics</title>
       <link>/publication/bredeche-2013-roborobo/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>/publication/bredeche-2013-roborobo/</guid>
       <description></description>
     </item>
@@ -146,7 +188,6 @@
       <title>Environment-driven distributed evolutionary adaptation in a population of autonomous robotic agents</title>
       <link>/publication/bredeche-2012-environment/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
       <guid>/publication/bredeche-2012-environment/</guid>
       <description></description>
     </item>
@@ -155,7 +196,6 @@
       <title>Embedded evolutionary robotics: The (1&#43; 1)-restart-online adaptation algorithm</title>
       <link>/publication/montanier-2011-embedded/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2011-embedded/</guid>
       <description></description>
     </item>
@@ -164,7 +204,6 @@
       <title>Emergence of altruism in open-ended evolution in a population of autonomous agents</title>
       <link>/publication/montanier-2011-emergence/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2011-emergence/</guid>
       <description></description>
     </item>
@@ -173,7 +212,6 @@
       <title>On-board Evolutionary Algorithm and Off-line Rule Discovery for Column Formation in Swarm Robotics</title>
       <link>/publication/kouno-2011-board/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/kouno-2011-board/</guid>
       <description></description>
     </item>
@@ -182,7 +220,6 @@
       <title>Surviving the Tragedy of Commons: Emergence of Altruism in a Population of Evolving Autonomous Agents</title>
       <link>/publication/montanier-2011-surviving/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/montanier-2011-surviving/</guid>
       <description></description>
     </item>
@@ -191,7 +228,6 @@
       <title>Environment-driven embodied evolution in a population of autonomous agents</title>
       <link>/publication/bredeche-2010-environment/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
       <guid>/publication/bredeche-2010-environment/</guid>
       <description></description>
     </item>
