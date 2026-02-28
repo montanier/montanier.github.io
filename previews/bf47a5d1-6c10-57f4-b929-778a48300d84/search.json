@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Chi va piano, va sano e va lontano",
+    "section": "",
+    "text": "No matching items\n© 2026 Jean-Marc Montanier. CC BY-SA 4.0"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Research Engineer - Bosch\nStuttgart, Germany | Apr. 2022 - Present\n\nBringing AI for robotics to production\nActivities: Tooling for compute and data management\nResponsibilities: Designing, execution, and support\nTools: Docker, Terraform, Cloud services, Poetry, IBM LSF\n\n\n\nSenior ML Engineer - Tinyclues\nParis, France | Nov. 2019 - Mar. 2022\n\nReliable Machine Learning at scale\nActivities: Development of complex machine learning stack\nResponsibilities: Epic Lead (set-up project and follow up to completion), Full-stack programming (from data ingestion to serving), Mentoring junior engineer\nTools: Kubeflow Pipeline, NumPy, TF, PySpark, Docker, CircleCI\n\n\n\nData Scientist - Faurecia\nParis, France | Sept. 2018 - Nov. 2019\n\nData science for industrial production\nActivities: Tech. lead on visual inspection and Multi-Agent modelling\nResponsibilities: Bringing prototypes to production, Technical advisor to management, Mentoring junior engineer\nTools: Python (scikit-learn, scipy, jupyter), CNN\n\n\n\nResearcher Engineer - SBRE (Aldebaran)\nParis, France | Apr. 2016 - Aug. 2018\n\nSoftware Innovation for humanoid robotics\nActivities: Grasping, Sound Event Recognition, Skeleton Detection\nResponsibilities: Scientific roadmap of the team, Delivery of PoCs, Mentoring interns\nTools: Python (scikit-learn, scipy, jupyter), C++, Pepper, Nao\n\n\n\nPost-doctoral Researcher - Barcelona Supercomputing Center (BSC)\nBarcelona, Spain | Sept. 2014 - Mar. 2016\n\nDevelopment of Multi-Agent Models for the study of cultural evolution and trading behaviors\nResearch activities and development in C++/Python/R\nSupervision of Ph.D. Students\n\n\n\nPost-doctoral Researcher - NTNU\nTrondheim, Norway | Mar 2013 - Jul. 2014\n\nResearch on on-line on-board distributed evolutionary robotics\nStudy of self-aggregating behaviors\nLeading students through the realization of a robotic platform\n\n\n\nPh.D. Student - Université Paris-Sud XI\nOrsay, France | Oct. 2009 - Mar. 2013\nPh.D. thesis on Automatic Learning of Robot controllers for swarm robotics.\n\n\n\n\n\n© 2026 Jean-Marc Montanier. CC BY-SA 4.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jean-Marc Montanier",
+    "section": "",
+    "text": "I’m an AI/ML Engineer, recently relocated in Santiago de Chile.\n© 2026 Jean-Marc Montanier. CC BY-SA 4.0"
+  },
+  {
+    "objectID": "index.html#current-work",
+    "href": "index.html#current-work",
+    "title": "Jean-Marc Montanier",
+    "section": "Current work",
+    "text": "Current work\nMore news coming soon."
+  },
+  {
+    "objectID": "index.html#previous-work",
+    "href": "index.html#previous-work",
+    "title": "Jean-Marc Montanier",
+    "section": "Previous work",
+    "text": "Previous work\nI worked as a research engineer or data scientist in various companies and sectors (from robotics to marketing). No matter the name of the position, I work at the interface between researchers and production. The idea is to bring the findings of researchers to production, and bring new ideas from the production to researchers.\nBefore working in the industry, I worked in multiple laboratories on the use of learning algorithms for multi-agent systems. I targeted the challenges arising when agents have to adapt to the environment, and produce a satisfying behaviour at the level of the population."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Jean-Marc Montanier",
+    "section": "Interests",
+    "text": "Interests\n\nArtificial Intelligence\nMachine Learning\nRobotics\nMulti-Agent Systems"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jean-Marc Montanier",
+    "section": "Education",
+    "text": "Education\n PhD in Robotics, 2013 Université Paris-Sud XI\n Engineering School, 2009 INSA Rennes — Electronics and Informatics"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Download all references\n© 2026 Jean-Marc Montanier. CC BY-SA 4.0"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nPaul Vogt, Rianne van den Berghe, Mirjam de Haas, Laura Hoffmann, Junko Kanero, Ezgi Mamus, Jean-Marc Montanier, Ora Oudgenoeg-Paz, Daniel Hernandez Garcia, Fotios Papadopoulos, others (2019). Second Language Tutoring using Social Robots. A Large-Scale Study. IEEE/ACM Int. Conf. on Human-Robot Interaction (HRI 2019).\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nTony Belpaeme, Paul Vogt, Rianne Van den Berghe, Kirsten Bergmann, Tilbe Göksun, Mirjam De Haas, Junko Kanero, James Kennedy, Aylin C Küntay, Ora Oudgenoeg-Paz, others (2018). Guidelines for designing social robots as second language tutors. International Journal of Social Robotics, 10(3), pp. 325–341.\n BibTeX\n\n\nXavier Rubio-Campillo, Jean-Marc Montanier, Guillem Rull, Juan Manuel Bermúdez Lorenzo, Juan Moros Díaz, Jordi Pérez González, José Remesal Rodríguez (2018). The ecology of Roman trade. Reconstructing provincial connectivity with similarity measures. Journal of Archaeological Science, 92, pp. 37–47.\n BibTeX  PDF\n\n\nX Rubio-Campillo, JM Bermúdez Lorenzo, JM Montanier, J Moros Diaz, J Pérez González, J Remesal Rodríguez (2018). Provincias, sellos e hipótesis nulas: la identificación de rutas de comercio a través de medidas de distancia cultural.\n BibTeX\n\n\nRoberto Menicatti, Carmine T Recchiuto, Barbara Bruno, Renato Zaccaria, Ali Abdul Khaliq, Uwe Köckemann, Federico Pecora, Alessandro Saffiotti, Ha-Duong Bui, Nak Young Chong, others (2018). Collaborative Development Within a Social Robotic, Multi-Disciplinary Effort: the CARESSES Case Study. 2018 IEEE Workshop on Advanced Robotics and its Social Impacts (ARSO), pp. 117–124.\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nNicolas Bredeche, Jean-Marc Montanier, Simon Carrignon (2017). Benefits of proportionate selection in embodied evolution: a case study with behavioural specialization. Proceedings of the Genetic and Evolutionary Computation Conference Companion, pp. 1683–1684.\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nJean-Marc Montanier, Simon Carrignon, Nicolas Bredeche (2016). Behavioural Specialisation in Embodied Evolutionary Robotics: Why so Difficult?. Frontiers in Robotics and AI, 3, pp. 38.\n BibTeX  PDF\n\n\nKazi Shah Nawaz Ripon, Eirik Jakobsen, Christopher Tannum, Jean-Marc Montanier (2016). Assessing the effect of self-assembly ports in evolutionary swarm robotics. Computational Intelligence (SSCI), 2016 IEEE Symposium Series on, pp. 1–8.\n BibTeX  PDF\n\n\nHeiko Hamann, Yara Khaluf, Jean Botev, Mohammad Divband Soorati, Eliseo Ferrante, Oliver Kosak, Jean-Marc Montanier, Sanaz Mostaghim, Richard Redpath, Jon Timmis, others (2016). Hybrid societies: challenges and perspectives in the design of collective behavior in self-organizing systems. Frontiers in Robotics and AI, 3, pp. 14.\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nSimon Carrignon, Jean-Marc Montanier, Xavier Rubio-Campillo (2015). Modelling the co-evolution of trade and culture in past societies. Proceedings of the 2015 Winter Simulation Conference, pp. 3949–3960.\n BibTeX  PDF\n\n\nSimon Carrignon, Jean-Marc Montanier, Xavier Rubio-Campillo (2015). Modelling the co-evolution of trade and culture. BSC International Doctoral Symposium (3rd: 2016: Barcelona), pp. 94–95.\n BibTeX"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nChristian Skjetne, Pauline C Haddow, Anders Rye, Håvard Schei, Jean-Marc Montanier (2014). The ChIRP Robot: A Versatile Swarm Robot Platform. Robot Intelligence Technology and Applications 2, pp. 71–82.\n BibTeX\n\n\nJean-Marc Montanier, Pauline C Haddow (2014). Adaptive self-assembly in swarm robotics through environmental bias. 2014 IEEE International Conference on Evolvable Systems, pp. 187–194.\n BibTeX  PDF\n\n\nFilip Fossum, Jean-Marc Montanier, Pauline C Haddow (2014). Repellent pheromones for effective swarm robot search in unknown environments. 2014 IEEE Symposium on Swarm Intelligence, pp. 1–8.\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nJean-Marc Montanier (2013). Environment-driven Distributed Evolutionary Adaptation for Collective Robotic Systems. Université Paris Sud-Paris XI.\n BibTeX\n\n\nNicolas Bredeche, Jean-Marc Montanier, Berend Weel, Evert Haasdijk (2013). Roborobo! a Fast Robot Simulator for Swarm and Collective Robotics. arXiv preprint arXiv:1304.2888.\n BibTeX\n\n\nJean-Marc Montanier, Nicolas Bredeche (2013). Evolution of altruism: spatial dispersion and consumption strategies. Proceedings of the 15th annual conference companion on Genetic and evolutionary computation, pp. 33–34.\n BibTeX\n\n\nJean-Marc Montanier, Nicolas Bredeche (2013). Evolution of altruism and spatial dispersion: an artificial evolutionary ecology approach. Proc. of the European Conference on Artificial Life (ECAL 2013), pp. 260–267.\n BibTeX  PDF"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nNicolas Bredeche, Jean-Marc Montanier, Wenguo Liu, Alan FT Winfield (2012). Environment-driven distributed evolutionary adaptation in a population of autonomous robotic agents. Mathematical and Computer Modelling of Dynamical Systems, 18(1), pp. 101–129.\n BibTeX  PDF\n\n\nNicolas Bredeche, Jean-Marc Montanier, others (2012). Environment-driven Open-ended Evolution with a Population of Autonomous Robots. Evolving Physical Systems Workshop.\n BibTeX"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nJean-Marc Montanier, Nicolas Bredeche (2011). Embedded evolutionary robotics: The (1+ 1)-restart-online adaptation algorithm. New Horizons in Evolutionary Robotics, pp. 155–169.\n BibTeX  PDF\n\n\nAsuki Kouno, Jean-Marc Montanier, Shigeru Takano, Nicolas Bredeche, Marc Schoenauer, Michele Sebag, Einoshin Suzuki (2011). On-board Evolutionary Algorithm and Off-line Rule Discovery for Column Formation in Swarm Robotics. Proceedings of the 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology-Volume 02, pp. 220–227.\n BibTeX\n\n\nJean-Marc Montanier, Nicolas Bredeche, others (2011). Surviving the Tragedy of Commons: Emergence of Altruism in a Population of Evolving Autonomous Agents. European Conference on Artificial Life.\n BibTeX  PDF\n\n\nJean-Marc Montanier, Nicolas Bredeche (2011). Emergence of altruism in open-ended evolution in a population of autonomous agents. Proceedings of the 13th annual conference companion on Genetic and evolutionary computation, pp. 25–26.\n BibTeX"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\n\nNicolas Bredeche, Jean-Marc Montanier (2010). Environment-driven embodied evolution in a population of autonomous agents. International Conference on Parallel Problem Solving from Nature, pp. 290–299.\n BibTeX  PDF\n\n\nNicolas Bredèche, Jean-Marc Montanier (2010). Online On-board Evolutionary Adaptation of Embodied Agents.\n BibTeX"
+  },
+  {
+    "objectID": "content/posts/2026-02-21presentation/hello_there.html",
+    "href": "content/posts/2026-02-21presentation/hello_there.html",
+    "title": "Hello there",
+    "section": "",
+    "text": "Why writing this blog\nFirst and foremost, an egostic take on it. Writing allows me to clarify and structure my thinking. It’s something I do not do often enough.\nIt also allows me to work on my writing skills, especialy in my second language: english\nIt permits to keep track of what I thought, what I’m thinking about, plan stuff etc…\nFinally, humbly, it may be of use to others. Show them a different perspective on what they are thinking\n\n\n\n© 2026 Jean-Marc Montanier. CC BY-SA 4.0"
+  }
+]
